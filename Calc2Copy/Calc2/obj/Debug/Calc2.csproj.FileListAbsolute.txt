@@ -1,0 +1,19 @@
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Calc2\Calc2\bin\Debug\Calc2.exe.config
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Calc2\Calc2\bin\Debug\Calc2.exe
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Calc2\Calc2\bin\Debug\Calc2.pdb
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Calc2\Calc2\obj\Debug\Calc2.exe
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Calc2\Calc2\obj\Debug\Calc2.pdb
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Calc2\Calc2\obj\Debug\Calc2.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Calc2Copy\Calc2\bin\Debug\Calc2.exe.config
+C:\Users\andre\Desktop\Calc2Copy\Calc2\obj\Debug\Calc2.exe
+C:\Users\andre\Desktop\Calc2Copy\Calc2\obj\Debug\Calc2.pdb
+C:\Users\andre\Desktop\Calc2Copy\Calc2\bin\Debug\Calc2.exe
+C:\Users\andre\Desktop\Calc2Copy\Calc2\bin\Debug\Calc2.pdb
+C:\Users\andre\Desktop\Calc2Copy\Calc2\bin\Debug\Calc2.exe.CodeAnalysisLog.xml
+C:\Users\andre\Desktop\Calc2Copy\Calc2\bin\Debug\Calc2.exe.lastcodeanalysissucceeded
+C:\Users\andre\OneDrive\Documents\Own Programming Projects\Calc2Copy\Calc2\bin\Debug\Calc2.exe.config
+C:\Users\andre\OneDrive\Documents\Own Programming Projects\Calc2Copy\Calc2\obj\Debug\Calc2.exe
+C:\Users\andre\OneDrive\Documents\Own Programming Projects\Calc2Copy\Calc2\obj\Debug\Calc2.pdb
+C:\Users\andre\OneDrive\Documents\Own Programming Projects\Calc2Copy\Calc2\bin\Debug\Calc2.exe
+C:\Users\andre\OneDrive\Documents\Own Programming Projects\Calc2Copy\Calc2\bin\Debug\Calc2.pdb
+C:\Users\andre\OneDrive\Documents\Own Programming Projects\Calc2Copy\Calc2\obj\Debug\Calc2.csprojResolveAssemblyReference.cache
